@@ -1,0 +1,28 @@
+API's to handle the historical data for developers to work on realistic stock trades.
+
+** ALPHA VANTAGE API **
+** YFINANCE **
+**Stock News**
+**IEX Cloud API**
+POLYGON.IO
+**Bloomberg API**
+**Intrinio**
+**Alpaca**
+
+10 Best AI Tools for Stock Market Analysis [2024]
+
+1. AlphaSense
+2. YCharts
+3. S&P Capital IQ Pro
+4. Morningstar Premium
+5. Gurufocus
+6. Finbox
+7. Koyfin
+8. Stockopedia
+9. Business Quant
+10. The Motley Fool
+AI Tools: Free vs. Paid for Stock Analysis
+AI’s Impact on Stock Market Forecasting
+Recommended AI Tool for Stock Market Analysis
+
+Considering both API and Ai I choose ycharts from yfinance 
