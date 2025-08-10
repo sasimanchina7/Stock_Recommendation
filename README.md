@@ -291,15 +291,13 @@ Academic Recognition
 🎓 Developed as a Masters Project for MSc Artificial Intelligence with Data Analytics @ Teesside University
  Completed: May 2024 | Supervisor: Hiba Alsmadi
 
- ## Screenshots
-*(Replace placeholders with actual images)*  
-### Web App UI
+### Web App UI (Need Access)
 ![Streamlit App](assets/streamlit-ui.png)
 
-### Safari Extension
+### Safari Extension (Need Access)
 ![Safari Extension](assets/safari-extension.png)
 
-### Prediction Charts
+### Prediction Charts (Need Access)
 ![Prediction Chart](assets/prediction-chart.png)
 
 ---
