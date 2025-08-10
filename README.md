@@ -1,4 +1,15 @@
 ### Let's Dive into the detailed view of the project entitled with yfinance data to work on AI/DL based Stock Purchase by creating its own-Recommendation system.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikit-learn)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
+![Xcode](https://img.shields.io/badge/Xcode-IDE-blue?logo=xcode)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Reinforcement%20Learning](https://img.shields.io/badge/Reinforcement%20Learning-AI-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+### Master's End-to-End Advanced Product | Year 2024
 
 ### O V E R V I E W 
 
@@ -17,14 +28,14 @@ results on a browser extension webpage and notifies your favourable.
 
 
 
-.
+---
 
 
 <img width="1536" height="1024" alt="Title_hypefr" src="https://github.com/user-attachments/assets/683d23bc-c87b-47ce-ae96-a4ba3258d584" />
 
 
 
-.
+---
 
 
 
@@ -127,6 +138,27 @@ well a portfolio is performing.
 • The portfolio is drawdown based on
 daily-returns and sales-volume 
 
+---
+
+##  Methodology
+###  Data Acquisition
+- Historical & real-time data via `yfinance` & other APIs
+- Cleansing & normalization for model training
+
+###  Model Development
+- **LSTM/GRU:** Sequence modeling of time-series data  
+- **ARIMA & Prophet:** Trend forecasting  
+- **Reinforcement Learning:** Reward-driven trading strategy optimization  
+
+###  Evaluation
+- RMSE, MSE, MAE metrics  
+- Comparison across models for accuracy & stability
+
+###  Deployment
+- Web app built in **Streamlit**
+- Integrated into **Safari Extension** via Xcode for real-time use
+---
+
 ### A N - O U T L I N E - O F - T H E  - S T A C K  - O F - T E C H N O L O G I E S
 
 • In the field of financial forecasting, the
@@ -209,6 +241,36 @@ requirements.
 After installing the extension, go to the settings
 and add your preferred stock tickers.
 
+The system offers:
+-  **AI-driven Predictions:** LSTM, GRU, ARIMA, Prophet models
+-  **Reinforcement Learning Optimization**
+-  **Streamlit-based Web App**
+-  **Safari Web-App Extension** for instant recommendations
+
+---
+
+##  Tech Stack
+- **Languages:** Python, Swift  
+- **ML/DL:** TensorFlow, Keras, Prophet, ARIMA, Reinforcement Learning  
+- **Frontend:** Streamlit, Safari App Extension UI (Xcode)  
+- **Data APIs:** Yahoo Finance (yfinance), Alpha Vantage, Polygon.io  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Version Control:** Git, GitHub  
+
+---
+
+##  Key Features
+ **Multi-Model Prediction Engine:** GRU, LSTM, ARIMA, Prophet  
+ **Golden Cross / Death Cross detection** for technical analysis  
+ **Correlation & Volatility Analysis**  
+ **Reinforcement Learning for Strategy Optimization**  
+ **Customizable Ticker Watchlist & Alerts**  
+ **Safari Extension Toolbar Integration**  
+ **Interactive Charts & Tables in Web UI**  
+ **Portfolio Performance Tracking**
+
+
+---
 
 Our approach combines real-time data, user-friendly interfaces, and predictive analytics to provide
 investors the knowledge they need to navigate the complexities of
@@ -225,4 +287,44 @@ investments, anticipate market trends, and refine their trading strategies
 to attain optimal outcomes and deliver the possible result in a handy way
 by the extension.
 
+Academic Recognition
+🎓 Developed as a Masters Project for MSc Artificial Intelligence with Data Analytics @ Teesside University
+ Completed: May 2024 | Supervisor: Hiba Alsmadi
+
+ ## Screenshots
+*(Replace placeholders with actual images)*  
+### Web App UI
+![Streamlit App](assets/streamlit-ui.png)
+
+### Safari Extension
+![Safari Extension](assets/safari-extension.png)
+
+### Prediction Charts
+![Prediction Chart](assets/prediction-chart.png)
+
+---
+
+##  Impact & Effort Showcase
+This project involved:
+-  **12+ months** of development & testing  
+-  Review of **20+ research papers & journals**  
+-  Building & training **multiple AI/DL models**  
+-  Integrating ML outputs into a **fully functional browser extension**  
+-  Implementing **risk management & portfolio tracking features**
+
+---
+
+##  Future Enhancements
+-  Integrating **social sentiment analysis** (Twitter, Reddit)  
+-  Cross-platform extensions (Chrome, Edge, iOS)  
+-  Transformer-based models for advanced sequence learning  
+-  Ensemble predictions for higher accuracy  
+
+---
+
+##   Installation
+###  Clone Repository
+```bash
+git clone https://github.com/yourusername/stock-purchase-recommendation.git
+cd stock-purchase-recommendation
 
